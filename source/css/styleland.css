@@ -1,0 +1,11 @@
+body{
+    background-color: lightyellow;
+background-repeat: no-repeat;  }
+h1{font-family: Arial;text-align:center; color: orangered}
+h2{font-size: 30px;
+color: white}
+h6{ font-size: 40px}
+h3{ color: green; font-size: 25px}
+ul{list-style-type: square}
+li{color: cornflowerblue}
+ol{list-style-type:lower-alpha}
